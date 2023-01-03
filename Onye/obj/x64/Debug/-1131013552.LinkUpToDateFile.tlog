@@ -1,0 +1,1 @@
+g++ -o "/onye/bin/x64/Debug/file///D/Ubuntu/home/leonardo/onye/onye.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /onye/obj/x64/Debug/main.o
